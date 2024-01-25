@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Source+Serif+4:opsz,wght@8..60,600&display=swap');
+
+
+#btn{
+    width:100px;
+    height:42px;
+    border: none;
+    color:black;
+    background-color:#994455;
+    border-radius: 5px;
+    box-shadow: inset 0 0 0 0 #f9e506;
+    transition: ease-out 0.3s;
+    font-size: 0.8rem;
+    outline:none;
+}
+
+
+
+#icon{
+    padding: 0px;
+    height: 50px;
+    width: 50px;
+}
+
+#homelocation{
+    height:45px;
+    padding:0px;
+    margin:0px;
+}
+h1{
+    color:#669966;
+    font-size: 45px;
+}
